@@ -3,7 +3,7 @@
 Plugin Name: Woocommerce Exclude Emails Coupon
 Plugin URI:  
 Description: Simple Woocomerce extension for emails exclusion
-Version:     20170304
+Version:     0.1.0
 Author:      Andrea Rampin
 Author URI:  https://github.com/andrearampin
 License:     GPL3
